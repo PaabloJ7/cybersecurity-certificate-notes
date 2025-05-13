@@ -32,7 +32,7 @@ Protección Perimetral	Firewalls, IDS/IPS
 7. Automate Cybersecurity Tasks with Python
 8. Put It to Work: Prepare for Cybersecurity Jobs (No files needed)
 
-🏅 Certificación
+## 🏅 Certificación
 ✅ Completado exitosamente
 📜 Ver credencial en Credly (enlace pendiente)
 📜 Certificado Coursera (enlace pendiente)

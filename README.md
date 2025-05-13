@@ -1,19 +1,19 @@
-🔐 Google Cybersecurity Professional Certificate
+# 🔐 Google Cybersecurity Professional Certificate
 ![Cybersecurity Header](https://img.freepik.com/free-vector/cyber-security-concept_23-2148532225.jpg)
 
-🎯 Lo que aprendí
+## Lo que aprendí
 Este programa me preparó para roles junior en ciberseguridad, enseñándome cómo los equipos de seguridad protegen sistemas y datos críticos.
 
-Habilidades clave adquiridas:
-🛡️ Protección de redes y sistemas
+### Habilidades clave adquiridas:
+Protección de redes y sistemas
 
-🔍 Identificación y mitigación de vulnerabilidades
+ Identificación y mitigación de vulnerabilidades
 
-🚨 Respuesta a incidentes de seguridad
+ Respuesta a incidentes de seguridad
 
-🤖 Automatización de tareas con Python
+ Automatización de tareas con Python
 
-🛠️ Toolkit de Seguridad
+## Toolkit de Seguridad
 Categoría	Herramientas Dominadas
 SIEM	Splunk, Chronicle
 Análisis de Red	Wireshark, tcpdump
@@ -21,7 +21,8 @@ Sistemas Operativos	Linux (CLI)
 Bases de Datos	SQL
 Programación	Python para seguridad
 Protección Perimetral	Firewalls, IDS/IPS
-📈 Estructura del Programa
+
+##  Estructura del Programa
 Fundamentos - Conceptos esenciales
 
 Gestión de Riesgos - Evaluación de amenazas

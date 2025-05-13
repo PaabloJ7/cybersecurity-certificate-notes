@@ -1,5 +1,5 @@
 🔐 Google Cybersecurity Professional Certificate
-[img/readmeimg.avif](https://img.freepik.com/free-vector/cyber-security-concept_23-2148532225.jpg)
+![Cybersecurity Header](https://img.freepik.com/free-vector/cyber-security-concept_23-2148532225.jpg)
 
 🎯 Lo que aprendí
 Este programa me preparó para roles junior en ciberseguridad, enseñándome cómo los equipos de seguridad protegen sistemas y datos críticos.

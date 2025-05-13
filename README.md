@@ -19,6 +19,9 @@ También me enseñó habilidades técnicas con:
 - Herramientas IDS/IPS
 - Firewalls Cada directorio contiene los archivos de cada uno de los cursos del certificado, y el orden en que se completaron es el siguiente:
 
+
+Cada directorio contiene los archivos de cada uno de los cursos del certificado y el orden en que se completaron es:
+
 1. Fundamentos de la ciberseguridad. 
 2. Apuesta a lo seguro: 
 3. Gestión de riesgos de seguridad. 
@@ -32,9 +35,12 @@ También me enseñó habilidades técnicas con:
 
 He completado el curso con éxito y he obtenido el certificado de Google Cybersecurity Certificate. Puedes ver mi certificado aquí:
 
+Credly:
 [Enlace]
 
-## Notas del curso
+Coursera:
+
+## Notas
 
 Las notas y resúmenes de los módulos del curso fueron creadas por [JakeSteam] y se encuentran organizadas en este repositorio. Las notas cubren los conceptos clave de cada módulo y fueron compartidas públicamente para fines educativos. En este repositorio, las notas se presentan tal como fueron creadas por él, con el propósito de mantener una constancia de mi aprendizaje en este curso.
 

@@ -1,34 +1,14 @@
 # Curso de Ciberseguridad de Google
 
-You can view my certificate of completion on Credly or Coursera.
+En este curso, adquirí conocimientos fundamentales que me prepararán para puestos de nivel inicial en ciberseguridad y me ayudarán a comprender cómo los equipos de seguridad protegen a sus organizaciones y clientes.
 
-In this course I gained foundational knowledge that will prepare me for entry-level jobs in cybersecurity and help me understand how security teams protect their organizations and its customers.
+Este curso abarcó diversos temas conceptuales, como:
 
-This course covered many conceptual topics such as:
+Gestión de riesgos, análisis de amenazas, seguridad de red, respuesta a incidentes. También me enseñó habilidades técnicas con:
 
-Risk management
-Threat analysis
-Network security
-Incident response
-It also taught me technical skills with:
+Linux, Python, SQL, herramientas SIEM (Splunk y Chronicle), analizadores de protocolos de red (Wireshark y tcpdump), herramientas IDS/IPS, firewalls. Cada directorio contiene los archivos de cada uno de los cursos del certificado, y el orden en que se completaron es el siguiente:
 
-Linux
-Python
-SQL
-SIEM tools (Splunk and Chronicle)
-Network protocol analyzers (Wireshark and tcpdump)
-IDS/IPS tools
-Firewalls
-Each directory holds the files for each of the courses in the certificate and the order they were completed in is:
-
-Foundations of Cybersecurity
-Play It Safe: Manage Security Risks
-Connect and Protect: Networks and Network Security
-Tools of the Trade: Linux and SQL
-Assets, Threats, and Vulnerabilities
-Sound the Alarm: Detection and Response
-Automate Cybersecurity Tasks with Python
-Put It to Work: Prepare for Cybersecurity Jobs (No files needed)
+Fundamentos de la ciberseguridad. Apuesta a lo seguro: Gestión de riesgos de seguridad. Conectar y proteger: Redes y seguridad de red. Herramientas del oficio: Activos, amenazas y vulnerabilidades de Linux y SQL. Activa la alarma: Detección y respuesta. Automatiza las tareas de ciberseguridad con Python. Ponlo en práctica: Prepárate para trabajos de ciberseguridad (No se necesitan archivos).
 
 ## Certificado
 

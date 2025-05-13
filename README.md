@@ -4,11 +4,29 @@ En este curso, adquirí conocimientos fundamentales que me prepararán para pues
 
 Este curso abarcó diversos temas conceptuales, como:
 
-Gestión de riesgos, análisis de amenazas, seguridad de red, respuesta a incidentes. También me enseñó habilidades técnicas con:
+- Gestión de riesgos
+- Análisis de amenazas
+- Seguridad de red
+- Respuesta a incidentes
 
-Linux, Python, SQL, herramientas SIEM (Splunk y Chronicle), analizadores de protocolos de red (Wireshark y tcpdump), herramientas IDS/IPS, firewalls. Cada directorio contiene los archivos de cada uno de los cursos del certificado, y el orden en que se completaron es el siguiente:
+También me enseñó habilidades técnicas con:
 
-Fundamentos de la ciberseguridad. Apuesta a lo seguro: Gestión de riesgos de seguridad. Conectar y proteger: Redes y seguridad de red. Herramientas del oficio: Activos, amenazas y vulnerabilidades de Linux y SQL. Activa la alarma: Detección y respuesta. Automatiza las tareas de ciberseguridad con Python. Ponlo en práctica: Prepárate para trabajos de ciberseguridad (No se necesitan archivos).
+- Linux
+- Python
+- SQL
+- Herramientas SIEM (Splunk y Chronicle)
+- Analizadores de protocolos de red (Wireshark y tcpdump)
+- Herramientas IDS/IPS
+- Firewalls Cada directorio contiene los archivos de cada uno de los cursos del certificado, y el orden en que se completaron es el siguiente:
+
+1.Fundamentos de la ciberseguridad. 
+2.Apuesta a lo seguro: 
+3.Gestión de riesgos de seguridad. 
+4.Conectar y proteger: Redes y seguridad de red. 
+5.Herramientas del oficio: Activos, amenazas y vulnerabilidades de Linux y SQL. 
+6.Activa la alarma: Detección y respuesta. 
+7.Automatiza las tareas de ciberseguridad con Python. 
+8.Ponlo en práctica: Prepárate para trabajos de ciberseguridad (No se necesitan archivos).
 
 ## Certificado
 
